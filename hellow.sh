@@ -1,1 +1,2 @@
-echo hello DEVOPS week1
+echo hello DEVOPS
+echo Nice to be here
